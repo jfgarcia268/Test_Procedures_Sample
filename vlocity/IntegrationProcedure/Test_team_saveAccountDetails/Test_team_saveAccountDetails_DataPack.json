@@ -1,0 +1,29 @@
+{
+    "%vlocity_namespace%__CustomJavaScript__c": "{}",
+    "%vlocity_namespace%__DisableMetadataCache__c": false,
+    "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "%vlocity_namespace%__Element__c": [
+        "Test_team_saveAccountDetails_Element_StepAccount.json",
+        "Test_team_saveAccountDetails_Element_IntegrationProcedureAction1.json",
+        "Test_team_saveAccountDetails_Element_DRgetAccount.json",
+        "Test_team_saveAccountDetails_Element_AssertActionCheckName.json",
+        "Test_team_saveAccountDetails_Element_AssertActionCheckPhone.json",
+        "Test_team_saveAccountDetails_Element_AssertActionCheckWesite.json",
+        "Test_team_saveAccountDetails_Element_TestResponse.json"
+    ],
+    "%vlocity_namespace%__IsLwcEnabled__c": false,
+    "%vlocity_namespace%__IsProcedure__c": true,
+    "%vlocity_namespace%__IsReusable__c": false,
+    "%vlocity_namespace%__IsTest__c": true,
+    "%vlocity_namespace%__Language__c": "Procedure",
+    "%vlocity_namespace%__ProcedureKey__c": "Test_team_saveAccountDetails",
+    "%vlocity_namespace%__PropertySet__c": "Test_team_saveAccountDetails_PropertySet.json",
+    "%vlocity_namespace%__SubType__c": "saveAccountDetails",
+    "%vlocity_namespace%__Type__c": "Test_team",
+    "IsLocked": false,
+    "MayEdit": true,
+    "Name": "Test_team_saveAccountDetails",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__OmniScript__c/Test_team/saveAccountDetails/Procedure"
+}

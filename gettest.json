@@ -1,0 +1,46 @@
+{
+  "action": "getTestProcedures",
+  "message": [],
+  "records": [
+    {
+      "%vlocity_namespace%__IsActive__c": true,
+      "%vlocity_namespace%__IsTest__c": true,
+      "%vlocity_namespace%__ProcedureKey__c": "Test_team_saveContactDetails",
+      "%vlocity_namespace%__SubType__c": "saveContactDetails",
+      "%vlocity_namespace%__Type__c": "Test_team",
+      "%vlocity_namespace%__Version__c": 1,
+      "Id": "a1I55000005xG2nEAE",
+      "attributes": {
+        "type": "%vlocity_namespace%__OmniScript__c",
+        "url": "/services/data/v51.0/sobjects/%vlocity_namespace%__OmniScript__c/a1I55000005xG2nEAE"
+      }
+    },
+    {
+      "%vlocity_namespace%__IsActive__c": true,
+      "%vlocity_namespace%__IsTest__c": true,
+      "%vlocity_namespace%__ProcedureKey__c": "Test_team_saveAccountDetails",
+      "%vlocity_namespace%__SubType__c": "saveAccountDetails",
+      "%vlocity_namespace%__Type__c": "Test_team",
+      "%vlocity_namespace%__Version__c": 1,
+      "Id": "a1I55000005xG2iEAE",
+      "attributes": {
+        "type": "%vlocity_namespace%__OmniScript__c",
+        "url": "/services/data/v51.0/sobjects/%vlocity_namespace%__OmniScript__c/a1I55000005xG2iEAE"
+      }
+    },
+    {
+      "%vlocity_namespace%__IsActive__c": true,
+      "%vlocity_namespace%__IsTest__c": true,
+      "%vlocity_namespace%__ProcedureKey__c": "Test_team_fail_saveAccountDetails",
+      "%vlocity_namespace%__SubType__c": "saveAccountDetails",
+      "%vlocity_namespace%__Type__c": "Test_team_fail",
+      "%vlocity_namespace%__Version__c": 1,
+      "Id": "a1I55000005xG2OEAU",
+      "attributes": {
+        "type": "%vlocity_namespace%__OmniScript__c",
+        "url": "/services/data/v51.0/sobjects/%vlocity_namespace%__OmniScript__c/a1I55000005xG2OEAU"
+      }
+    }
+  ],
+  "status": "success"
+}

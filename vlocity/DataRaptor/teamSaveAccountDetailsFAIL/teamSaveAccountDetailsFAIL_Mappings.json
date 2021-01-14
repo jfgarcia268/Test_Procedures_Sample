@@ -1,0 +1,48 @@
+[
+    {
+        "%vlocity_namespace%__ConfigurationValue__c": "FAKEMAPPING",
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Account",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Id",
+        "%vlocity_namespace%__FilterOperator__c": "=",
+        "%vlocity_namespace%__IsDisabled__c": true,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "teamSaveAccountDetailsFAILCustomaEJ6s00000000GgGAIItem0",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "teamSaveAccountDetailsFAIL",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Account",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Name",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "StepAccount:AccountName",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "teamSaveAccountDetailsFAILCustomaEJ6s00000000GgGAIItem1",
+        "%vlocity_namespace%__UpsertKey__c": true,
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "teamSaveAccountDetailsFAIL",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Account",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Website",
+        "%vlocity_namespace%__InterfaceFieldAPIName__c": "StepAccount:AccountWebsite",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "teamSaveAccountDetailsFAILCustomaEJ6s00000000GgGAIItem3",
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "teamSaveAccountDetailsFAIL",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    }
+]
